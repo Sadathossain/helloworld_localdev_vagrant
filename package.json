@@ -1,5 +1,5 @@
 {
-  "name": "hello-world",
+  "name": "helloworld_localdev_vagrant",
   "version": "1.0.0",
   "description": "Hello world app taken from: https://expressjs.com/en/starter/hello-world.html",
   "main": "server.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/borderguru/hello-world.git"
+    "url": "git+https://github.com/Sadathossain/helloworld_localdev_vagrant.git"
   },
-  "author": "",
+  "author": "Redbarron",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/borderguru/hello-world/issues"
+    "url": "https://github.com/Sadathossain/helloworld_localdev_vagrant"
   },
-  "homepage": "https://github.com/borderguru/hello-world#readme",
+  "homepage": "https://github.com/Sadathossain/helloworld_localdev_vagrant#readme",
   "dependencies": {
     "express": "^4.15.3"
   }
